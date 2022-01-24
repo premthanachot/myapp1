@@ -5,7 +5,8 @@ import { ShoppingCartOutlined } from "@material-ui/icons";
 
 
 const Container = styled.div`
-    height: 60px;
+    height: 50px;
+    background-color: #696969;
 `
 const Wrapper = styled.div`
     padding: 10px 20px;
